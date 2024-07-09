@@ -1,0 +1,10 @@
+
+.img-background{
+    background-image: url("images/indexBack.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(9, 12, 24, 0.7)),url(images/indexBack.jpg);
+}
+
