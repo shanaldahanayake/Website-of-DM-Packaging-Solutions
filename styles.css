@@ -8,3 +8,11 @@
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(9, 12, 24, 0.7)),url(images/indexBack.jpg);
 }
 
+ul.footerContact{
+    list-style-type: none;
+    padding: 0;
+    margin-left: 100px;
+    color: white;
+    font-size: 15px;
+  }
+
